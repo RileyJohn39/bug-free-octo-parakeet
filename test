@@ -1,0 +1,4 @@
+parrot = 5
+
+if parrot = 5:
+print('This parrot is a certified' bruh 'moment')
